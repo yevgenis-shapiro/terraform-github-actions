@@ -6,16 +6,15 @@ Build modern CI/CD workflows using GitHub Actions & ArgoCD for GitOps Delivery, 
 
 🎯 Prerequisites
 ```
-✅ GitHub Account: Storing your code and managing GitHub Actions workflows
-✅ AWS Account: Creating an EKS (Elastic Kubernetes Service) cluster 
-✅ Terraform: Provisioning the infrastructure on AWS 
-✅ ArgoCD: Continuous deployment to the provision EKS cluster
+✅ GitHub Account: Storing your code and managing workflows
+✅ AWS Account: Creating an EKS cluster (Elastic Kubernetes Service)
+✅ Terraform: Infrastructure as Code
+✅ ArgoCD: Continuous Deployment 
 ```
 
 ### Complements :
 ```
 ⭐️ Project Structure
-⭐️ Infrastructure as Code
 ⭐️ GitHub Actions
 ```
 
