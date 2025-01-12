@@ -18,7 +18,6 @@ Build modern CI/CD workflows using GitHub Actions & ArgoCD for GitOps Delivery, 
 ⭐️ GitHub Actions
 ```
 
-
 🔨 Integration :
 ```
 ```
