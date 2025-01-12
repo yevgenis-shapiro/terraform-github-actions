@@ -7,16 +7,15 @@ Accelerating operations by up to 20x 🚀
 
 🎯 Prerequisites
 ```
-✅ GitHub : Storing your code and managing GitHub Actions workflows
-✅ AWS    : Creating an EKS (Elastic Kubernetes Service) cluster 
-✅ Terraform : Provisioning the infrastructure on AWS 
-✅ ArgoCD : Continuous deployment to the provision EKS cluster
+✅ GitHub Account: Storing your code and managing GitHub Actions workflows
+✅ AWS Account: Creating an EKS (Elastic Kubernetes Service) cluster 
+✅ Terraform: Provisioning the infrastructure on AWS 
+✅ ArgoCD: Continuous deployment to the provision EKS cluster
 ```
 
 ### Complements :
 ```
 ⭐️ Project Structure
-⭐️ Dockerize Application
 ⭐️ Infrastructure as Code
 ⭐️ GitHub Actions
 ```
