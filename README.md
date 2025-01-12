@@ -1,8 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d19570ae-1f4d-4f7c-a327-4369faabcaef)
 
 ## Terraform  - GitHub Actions | Kubernetes
-Modern workflow can to build CI/CD pipelines using GitHub Actions, ArgoCD for GitOps, Amazon (Elastic Kubernetes Service) to run our container and utilise Terraform to automate and streamline the entire process.
-Accelerating operations by up to 20x 🚀
+Build modern CI/CD workflows using GitHub Actions & ArgoCD for GitOps Delivery, Amazon (EKS) to run our container and utilise Terraform to automate and streamline the entire process. Accelerating operations by up to 20x 🚀
 
 
 🎯 Prerequisites
