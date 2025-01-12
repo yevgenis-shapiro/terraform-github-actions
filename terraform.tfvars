@@ -1,14 +1,10 @@
-
-
 ###Provider
 region             = "us-west-2"
 availability_zones = ["us-west-2a", "us-west-2b"]
 environment  = "staging"
 
-
 ###ECR
-ecr_repo_name = "react-app-2048-ss"
-
+ecr_repo_name = "app-2048-xx"
 
 ###VPC
 vpc_cidr = "10.0.0.0/16"
